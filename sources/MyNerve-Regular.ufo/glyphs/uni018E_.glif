@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni018E" format="2">
+	<advance width="646"/>
+	<unicode hex="018E"/>
+	<outline>
+		<component base="uniF02A" xScale="-0.9976" xyScale="-0.0698" yScale="0.9976" yxScale="-0.0698" xOffset="666" yOffset="22"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>E</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>E</string>
+		</dict>
+	</lib>
+</glyph>

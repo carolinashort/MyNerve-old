@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E93" format="2">
+	<advance width="508"/>
+	<unicode hex="1E93"/>
+	<outline>
+		<component base="uni0307" xScale="0.7133" xOffset="217" yOffset="-752"/>
+		<component base="z.alt2" yOffset="65"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>z</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>z</string>
+		</dict>
+	</lib>
+</glyph>

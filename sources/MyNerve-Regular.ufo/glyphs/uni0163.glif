@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0163" format="2">
+	<advance width="360"/>
+	<unicode hex="0163"/>
+	<outline>
+		<component base="uni0327" xOffset="118" yOffset="-21"/>
+		<component base="uniF011" xOffset="-15"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>t</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>t</string>
+		</dict>
+	</lib>
+</glyph>

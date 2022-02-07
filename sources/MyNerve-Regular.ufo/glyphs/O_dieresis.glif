@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Odieresis" format="2">
+	<advance width="615"/>
+	<unicode hex="00D6"/>
+	<outline>
+		<component base="uni0308" xScale="0.9962" xyScale="0.0872" yScale="0.9962" yxScale="-0.0872" xOffset="137" yOffset="74"/>
+		<component base="O.alt3" xScale="1.0741" yScale="1.0741" xOffset="-5" yOffset="1"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>O</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>O</string>
+		</dict>
+	</lib>
+</glyph>

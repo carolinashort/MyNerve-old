@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guilsinglright" format="2">
+	<advance width="310"/>
+	<unicode hex="203A"/>
+	<note>
+		guilsinglright
+	</note>
+	<outline>
+		<contour>
+			<point x="68" y="136" type="curve" smooth="yes"/>
+			<point x="85" y="130"/>
+			<point x="99" y="142"/>
+			<point x="113" y="167" type="curve" smooth="yes"/>
+			<point x="122" y="181"/>
+			<point x="134" y="196"/>
+			<point x="145" y="211" type="curve" smooth="yes"/>
+			<point x="171" y="240"/>
+			<point x="200" y="266"/>
+			<point x="224" y="294" type="curve" smooth="yes"/>
+			<point x="250" y="327"/>
+			<point x="244" y="352"/>
+			<point x="211" y="374" type="curve" smooth="yes"/>
+			<point x="171" y="398"/>
+			<point x="133" y="424"/>
+			<point x="95" y="452" type="curve" smooth="yes"/>
+			<point x="82" y="459"/>
+			<point x="43" y="460"/>
+			<point x="33" y="452" type="curve" smooth="yes"/>
+			<point x="18" y="435"/>
+			<point x="26" y="421"/>
+			<point x="36" y="406" type="curve" smooth="yes"/>
+			<point x="40" y="401"/>
+			<point x="43" y="395"/>
+			<point x="49" y="393" type="curve" smooth="yes"/>
+			<point x="84" y="372"/>
+			<point x="118" y="352"/>
+			<point x="159" y="327" type="curve"/>
+			<point x="114" y="275" type="line" smooth="yes"/>
+			<point x="94" y="250"/>
+			<point x="69" y="225"/>
+			<point x="49" y="198" type="curve" smooth="yes"/>
+			<point x="34" y="178"/>
+			<point x="47" y="145"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 30 values pushed */
+25 17 3 3 0 1 1 76 0 1 0 0 1 89 0 1 1 0 97 0 0 1 0 81 20 18 32 2 8 23 
+CALL[ ]	/* CallFunction */</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>Y</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>A</string>
+		</dict>
+	</lib>
+</glyph>

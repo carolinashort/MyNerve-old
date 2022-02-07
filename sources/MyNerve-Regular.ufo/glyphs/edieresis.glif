@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="edieresis" format="2">
+	<advance width="420"/>
+	<unicode hex="00EB"/>
+	<outline>
+		<component base="e.alt3"/>
+		<component base="uni0308" xScale="1.1163" yScale="1.1163" xOffset="20" yOffset="-204"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>e</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>e</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni01E5" format="2">
+	<advance width="455"/>
+	<unicode hex="01E5"/>
+	<outline>
+		<component base="g" yOffset="95"/>
+		<component base="hyphen" yScale="0.7081" xOffset="7" yOffset="-133"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>g</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>g</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>g</string>
+		</dict>
+	</lib>
+</glyph>

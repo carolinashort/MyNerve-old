@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1ED0" format="2">
+	<advance width="630"/>
+	<unicode hex="1ED0"/>
+	<outline>
+		<component base="acutecomb" xScale="0.6711" xyScale="0.1183" yScale="0.6711" yxScale="-0.1183" xOffset="429" yOffset="374"/>
+		<component base="uni0302" xScale="0.7078" yScale="0.7078" xOffset="168" yOffset="194"/>
+		<component base="uniF03E" yOffset="-20"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>O</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>O</string>
+		</dict>
+	</lib>
+</glyph>

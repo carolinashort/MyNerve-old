@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="O.alt3" format="2">
+	<advance width="582"/>
+	<note>
+		O.alt2
+	</note>
+	<outline>
+		<contour>
+			<point x="248" y="1" type="curve" smooth="yes"/>
+			<point x="281" y="5"/>
+			<point x="316" y="12"/>
+			<point x="345" y="28" type="curve" smooth="yes"/>
+			<point x="422" y="68"/>
+			<point x="497" y="157"/>
+			<point x="508" y="247" type="curve" smooth="yes"/>
+			<point x="527" y="396"/>
+			<point x="480" y="493"/>
+			<point x="404" y="577" type="curve" smooth="yes"/>
+			<point x="359" y="627"/>
+			<point x="304" y="633"/>
+			<point x="245" y="597" type="curve" smooth="yes"/>
+			<point x="210" y="576"/>
+			<point x="183" y="539"/>
+			<point x="148" y="517" type="curve" smooth="yes"/>
+			<point x="103" y="490"/>
+			<point x="88" y="449"/>
+			<point x="77" y="403" type="curve" smooth="yes"/>
+			<point x="71" y="374"/>
+			<point x="67" y="344"/>
+			<point x="73" y="282" type="curve"/>
+			<point x="68" y="212"/>
+			<point x="92" y="117"/>
+			<point x="129" y="60" type="curve" smooth="yes"/>
+			<point x="157" y="17"/>
+			<point x="198" y="-4"/>
+		</contour>
+		<contour>
+			<point x="277" y="58" type="curve" smooth="yes"/>
+			<point x="234" y="44"/>
+			<point x="219" y="48"/>
+			<point x="192" y="85" type="curve" smooth="yes"/>
+			<point x="163" y="125"/>
+			<point x="142" y="203"/>
+			<point x="144" y="257" type="curve"/>
+			<point x="133" y="385"/>
+			<point x="185" y="481"/>
+			<point x="275" y="536" type="curve" smooth="yes"/>
+			<point x="321" y="563"/>
+			<point x="365" y="540"/>
+			<point x="395" y="493" type="curve"/>
+			<point x="446" y="414"/>
+			<point x="465" y="335"/>
+			<point x="431" y="218" type="curve" smooth="yes"/>
+			<point x="413" y="159"/>
+			<point x="341" y="81"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>assembly</key>
+			<string>NPUSHB[ ]	/* 42 values pushed */
+59 18 8 3 3 2 1 76 0 1 0 2 3 1 2 105 0 3 0 0 3 89 0 3 3 0 97 0 0 3 0 81 55 53 41 39 25 24 19 4 6 23 
+CALL[ ]	/* CallFunction */</string>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>=O</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>=O</string>
+		</dict>
+	</lib>
+</glyph>

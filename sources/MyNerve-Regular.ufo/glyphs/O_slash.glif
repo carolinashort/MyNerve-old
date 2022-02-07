@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Oslash" format="2">
+	<advance width="675"/>
+	<unicode hex="00D8"/>
+	<outline>
+		<component base="O"/>
+		<component base="bar" xScale="0.766" xyScale="-0.6428" yScale="0.766" yxScale="0.6428" xOffset="66" yOffset="147"/>
+	</outline>
+</glyph>
