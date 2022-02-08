@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1EC9" format="2">
+	<advance width="275"/>
+	<unicode hex="1EC9"/>
+	<outline>
+		<component base="dotlessi"/>
+		<component base="hookabovecomb" xScale="1.0721" yScale="1.0721" xOffset="-76" yOffset="-220"/>
+	</outline>
+</glyph>

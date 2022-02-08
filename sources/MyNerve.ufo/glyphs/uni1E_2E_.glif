@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E2E" format="2">
+	<advance width="383"/>
+	<unicode hex="1E2E"/>
+	<outline>
+		<component base="uni0308" xScale="0.9976" xyScale="0.0698" yScale="0.9976" yxScale="-0.0698" xOffset="-5" yOffset="51"/>
+		<component base="acutecomb" xScale="0.9272" xyScale="0.3746" yScale="0.7634" yxScale="-0.3085" xOffset="234" yOffset="266"/>
+		<component base="I.alt2" xOffset="44" yOffset="-46"/>
+	</outline>
+</glyph>

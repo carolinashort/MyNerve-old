@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hbar" format="2">
+	<advance width="631"/>
+	<unicode hex="0127"/>
+	<outline>
+		<component base="uniF01E" xOffset="109"/>
+		<component base="hyphen" yScale="0.8488" xOffset="-50" yOffset="254"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>t</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>h</string>
+		</dict>
+	</lib>
+</glyph>

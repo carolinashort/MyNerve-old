@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ocircumflex" format="2">
+	<advance width="614"/>
+	<unicode hex="00D4"/>
+	<outline>
+		<component base="uni0302" xScale="0.8875" yScale="0.8875" xOffset="127" yOffset="154"/>
+		<component base="O.alt3" xScale="1.0741" yScale="1.0741" xOffset="-6" yOffset="1"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>O</string>
+		</dict>
+	</lib>
+</glyph>

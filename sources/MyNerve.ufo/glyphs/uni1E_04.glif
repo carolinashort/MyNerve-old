@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E04" format="2">
+	<advance width="635"/>
+	<unicode hex="1E04"/>
+	<outline>
+		<component base="uniF02B"/>
+		<component base="dotaccent" xOffset="148" yOffset="-848"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>B</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>B</string>
+		</dict>
+	</lib>
+</glyph>

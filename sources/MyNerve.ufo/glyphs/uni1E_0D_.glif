@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E0D" format="2">
+	<advance width="503"/>
+	<unicode hex="1E0D"/>
+	<outline>
+		<component base="uniF022" yOffset="-25"/>
+		<component base="uni0307" xScale="0.7133" xOffset="140" yOffset="-781"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>d</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>d</string>
+		</dict>
+	</lib>
+</glyph>

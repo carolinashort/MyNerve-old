@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Rcaron" format="2">
+	<advance width="613"/>
+	<unicode hex="0158"/>
+	<outline>
+		<component base="uni030C" xOffset="-28" yOffset="122"/>
+		<component base="R.alt2" yOffset="-18"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>R</string>
+		</dict>
+	</lib>
+</glyph>

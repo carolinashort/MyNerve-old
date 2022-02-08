@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1E71" format="2">
+	<advance width="600"/>
+	<unicode hex="1E71"/>
+	<outline>
+		<component base="uniF011" xOffset="123" yOffset="80"/>
+		<component base="circumflex" xScale="0.926" yScale="0.926" xOffset="102" yOffset="-735"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>circumflex</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>
