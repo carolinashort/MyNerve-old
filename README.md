@@ -1,4 +1,4 @@
-# My Font
+# MyNerve
 
 [![][Fontbakery]](https://carolinashort.github.io/MyNerve/fontbakery-report.html)
 [![][Universal]](https://carolinashort.github.io/MyNerve/fontbakery-report.html)

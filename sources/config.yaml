@@ -1,4 +1,4 @@
-sources:
-  - MyNerve.ufo
-familyName: MyNerve
-outputDir: "../fonts"
+    sources:
+      - MyNerve.glyphs
+    outputDir: "../fonts"
+    familyName: MyNerve

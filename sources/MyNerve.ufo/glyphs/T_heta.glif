@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Theta" format="2">
-	<advance width="675"/>
-	<unicode hex="0398"/>
-	<outline>
-		<component base="O"/>
-		<component base="uni0304" xScale="0.8519" xOffset="102" yOffset="-305"/>
-	</outline>
-</glyph>
