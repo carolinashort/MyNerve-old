@@ -1,4 +1,4 @@
-    sources:
-      - MyNerve.ufo
-    outputDir: "../fonts"
-    familyName: MyNerve
+sources:
+  - MyNerve.ufo
+outputDir: "../fonts"
+familyName: MyNerve
